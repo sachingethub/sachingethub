@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sachingethub
-- 👀 I’m interested in c++
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate with myself
+- 👀 I’m interested in backend
+- 🌱 I’m currently learning react
 - 📫 currently i am a student so dont contact me 
 
 <!---
